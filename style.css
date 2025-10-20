@@ -7,3 +7,7 @@
     height: 100%;
     margin-top: 50px;
 }
+#center-me {
+    display: flex;
+    justify-content: center;
+}
